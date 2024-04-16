@@ -20,7 +20,8 @@ Here're some of the project's best features:
 *   Make predictions for the remaining images
 *   Calculate the screen time of both TOM and JERRY
 
-<h2>Chhallanges Faced</h2>
+<h2>🤔Challenges Faced</h2>
+
 *   First, I tried using the pretrained model without removing the top layer. The results were not satisfactory. The possible reason could be that these are the cartoon images and our pretrained model was trained on actual images and hence it was not able to classify these cartoon images. To tackle this problem, i retrained the pretrain model using few labelled images and the results were better from the previous results.
 
 *   Even after training on the labelled images, the accuracy was not satisfactory. The model was not able to perform well on the training images itself. So, i tried to increase the number of layers. Increasing the number of layers proved to be a good solution to increase the training accuracy but there was no sync between training and validation accuracy. The model was overfitting and its performance on the unseen data was not satisfactory. So I added a Dropout layer after every Dense layer and then there was good sync between training and validation accuracy.
