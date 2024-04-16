@@ -6,7 +6,7 @@
 
 <img src="https://github.com/Samarth1410/Tom-and-Jerry-Video-Screentime-Calculator/blob/master/Training%20Frames/frame100.jpg" alt="project-screenshot" width="400" height="400/">
 
-<img src="https://drive.google.com/file/d/1Hg_sbTYRxwoDWVuYOhAGj66-JzEtkK02/view?usp=sharing" alt="project-screenshot" width="400" height="400/">
+<img src="https://github.com/Samarth1410/Tom-and-Jerry-Video-Screentime-Calculator/blob/master/Output%20Screen.png" alt="project-screenshot" width="400" height="400/">
 
   
   
